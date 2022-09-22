@@ -5,4 +5,4 @@
 - 📫 If you have any questions, you can contact me in VK: vk.com/aom13
 - 😄 The mood is to earn money and fly to Japan
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krutoypan3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krutoypan3&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
